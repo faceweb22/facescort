@@ -9,11 +9,7 @@ function NavBar(){
 
             <nav className="navbar">
 
-                    {/* <h1 className='logo'>
-                        <Link to="/">facescortcort</Link>
-
-                    </h1> */}
-                <Link to="/facescort"> 
+                <Link to="/facescortt"> 
                     <div className='logo'>
                         <img src={logo} width="200px" alt='logo'></img>
                     </div>
@@ -21,13 +17,13 @@ function NavBar(){
                 <ul className="menu">
 
                     <li>
-                        <Link to='/facescort/contacto'>Publica tu perfil</Link>
+                        <Link to='/facescortt/contacto'>Publica tu perfil</Link>
                     </li>
                     <li className='zona'>
-                        <Link to='/facescort/buenos-aires'>Zona</Link>
+                        <Link to='/facescortt/buenos-aires'>Zona</Link>
                         <ul >
-                            <li><Link to='/facescort/buenos-aires/microcentro'>microcentro</Link> </li>
-                            <li><Link to='/facescort/buenos-aires/tribunales'>tribunales</Link></li>
+                            <li><Link to='/facescortt/buenos-aires/microcentro'>microcentro</Link> </li>
+                            <li><Link to='/facescortt/buenos-aires/tribunales'>tribunales</Link></li>
                         </ul>
                     </li>
                         

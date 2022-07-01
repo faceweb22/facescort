@@ -7,7 +7,7 @@ export default function Provincia() {
     <div className='main'>
 
         <h1 className='logo logoInitial'>
-            <Link to="/facescort"> 
+            <Link to="/facescortt"> 
                 <div className='logoContainer'>
                     <img src={logo} width="200px" alt='logo'></img>
                 </div>
@@ -17,7 +17,7 @@ export default function Provincia() {
         <h2>Seleccione una provincia</h2>
         <div className='provContainer'>
 
-            <Link to="/facescort/buenos-aires">
+            <Link to="/facescortt/buenos-aires">
                 <div className='provincias'>
                     Buenos Aires
                 </div>
