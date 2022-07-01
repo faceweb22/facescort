@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/facescortt/static/css/main.cabd6ab7.css",
-    "main.js": "/facescortt/static/js/main.242b25b1.js",
+    "main.js": "/facescortt/static/js/main.545a7479.js",
     "static/js/787.d1628b93.chunk.js": "/facescortt/static/js/787.d1628b93.chunk.js",
     "index.html": "/facescortt/index.html",
     "static/media/wp.svg": "/facescortt/static/media/wp.202a5bbf98298b6a0c2c4b46f368fa56.svg",
     "main.cabd6ab7.css.map": "/facescortt/static/css/main.cabd6ab7.css.map",
-    "main.242b25b1.js.map": "/facescortt/static/js/main.242b25b1.js.map",
+    "main.545a7479.js.map": "/facescortt/static/js/main.545a7479.js.map",
     "787.d1628b93.chunk.js.map": "/facescortt/static/js/787.d1628b93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cabd6ab7.css",
-    "static/js/main.242b25b1.js"
+    "static/js/main.545a7479.js"
   ]
 }
