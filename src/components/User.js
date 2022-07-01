@@ -8,7 +8,7 @@ export default function User({user:{id, nombre, category, wp, portada, descripci
     return( 
         <>
         <ul className="tarjetas">
-            <Link to= {`/facescortt/${nombre}-${id}-${wp}`} >
+            <Link to= {`/${nombre}-${id}-${wp}`} >
                 <li> <img src= {portada} className="tarjetas-img" alt="portada"/></li>
                 <li className="detallesCard">{nombre}</li>
                 <li className="detallesCard">{wp}</li>

@@ -17,26 +17,26 @@ function App() {
     <Switch>
 
 
-      <Route exact path="/facescortt/buenos-aires/:ubicacion">
+      <Route exact path="/buenos-aires/:ubicacion">
         <NavBar/>
         <Users/>
       </Route>
 
-      <Route exact path="/facescortt/:nombre-:id-:wp">
+      <Route exact path="/:nombre-:id-:wp">
         <NavBar/>
         <UserDetailContainer/>
       </Route>
       
-      <Route path="/facescortt/buenos-aires">
+      <Route path="/buenos-aires">
         <NavBar/>
         <Users/>
       </Route>
 
-      <Route path="/facescortt/contacto">
+      <Route path="/contacto">
         <NavBar/>
         <Contacto/>
       </Route>
-      <Route path="/facescortt">
+      <Route path="/">
         <Provincia/>
         <Footer/>
       </Route>
