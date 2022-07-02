@@ -23,5 +23,7 @@ etiqueta css:
  ---para usar la etiqueta Link
  comando:
  npm i react-router-dom@5.2.0
+-- para instalar la ultima version:
+    npm i react-router-dom
                                                 
                 
