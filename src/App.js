@@ -1,6 +1,6 @@
 
-import { BrowserRouter, Switch } from "react-router-dom/cjs/react-router-dom.min";
-import { Route } from "react-router-dom";
+import { BrowserRouter, Switch, Route } from "react-router-dom/cjs/react-router-dom.min";
+// import { Route, BrowserRouter, Switch } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Users from "./components/Users";
 import UserDetailContainer from "./components/UserDetailContainer";

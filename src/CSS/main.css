@@ -102,7 +102,7 @@ ul{
     display: flex;
     flex-flow: column nowrap;
     align-items: center;
-    width: 95%;
+    /* width: 95%; */
     font-size: 25px;
 }
 .provContainer a{
@@ -135,6 +135,7 @@ ul{
 
 
 
+
 @media only screen and (min-width: 500px){
     .main{
         display: block;
@@ -148,6 +149,10 @@ ul{
     } */
     .tarjetas{
         width: 200px;
+    }
+
+    .main h2{
+        margin-top: 20px;
     }
 }
 

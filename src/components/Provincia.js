@@ -14,6 +14,8 @@ export default function Provincia() {
             </Link>
         </h1>
         <br></br>
+        <b className='parrafoPrincipal'>Placer, masajes, cariño, mujeres sexys, milfs y toda clase de compañia que necesites!</b> 
+        <br></br>
         <h2>Seleccione una provincia</h2>
         <div className='provContainer'>
 
