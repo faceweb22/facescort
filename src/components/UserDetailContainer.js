@@ -3,7 +3,7 @@ import UserDetail from "./UserDetail";
 import { data } from "./Data";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
-import toast, { Toaster } from 'react-hot-toast';
+// import toast, { Toaster } from 'react-hot-toast';
 
 
 
@@ -38,7 +38,7 @@ export default function UserDetailContainer(){
         <>
 
         <div className="catalogo">
-            <Toaster/>
+            {/* <Toaster/> */}
           <UserDetail items={items}  />
         </div>
 
