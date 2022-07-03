@@ -4,7 +4,6 @@ import User from "./User";
 import '../CSS/main.css'
 import { data } from "./Data";
 import { useParams } from "react-router-dom";
-// import Welcome from "./Welcome";
 // import Contacto from "./Contacto";
 
 
