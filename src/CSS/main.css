@@ -120,15 +120,63 @@ ul{
     border: 1px solid black;
     margin-left: 5px;
 }
+.provincias:hover{
+    cursor: pointer;
+}
 .provincias a{
     font-size: 50px;
     width: 100%;
     display: block;
 }
+.terminosContainer{
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    background-color: plum;
+    display: none;
 
+}
+.terminosContainer2{
+    /* width: 80%; */
+    height: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.terminos{
+    /* width: 88%; */
+    margin: 0 10% 0 10%;
+    text-align: center;
+    /* background-color: red; */
+}
+.btnTerminos{
+    margin: 5px;
+    font-size: 18px;
+}
+.btnTerminos a{
+    text-decoration: none;
+    color: black;
+}
+.btnCierre{
+    background-color: silver;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    z-index: 20;
+    height: 27px;
+}
+.btnCierre:hover{
+    background-color: white;
+    cursor: pointer;
+}
+.videoContainer{
+    text-align: center;
+    position: relative;
+    top: -27px;
 
-
-
+}
 
 
 

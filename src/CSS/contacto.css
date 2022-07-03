@@ -24,12 +24,12 @@
     width: 100px;
     margin-top: 22px;
 }
-.copiar{
+.btn{
     background-color: violet;
     padding: 5px;
     border-radius: 22px;
 }
-.copiar:hover{
+.btn:hover{
     background-color: plum;
     cursor: pointer;
 }

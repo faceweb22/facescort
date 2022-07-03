@@ -3,6 +3,7 @@ import '../CSS/contacto.css'
 // import { v4 as uuidv4 } from 'uuid'
 import Copiar from './Copiar'
 import wp from '../multimedia/wp.svg'
+import Welcome from "./Welcome";
 
 
 
@@ -11,6 +12,7 @@ export default function Contacto() {
     
   return (
     <div className='contactoContainer'>
+        <Welcome/>
         <h2 className='subtitulo'>Publica tu perfil</h2>    
 
         <div className='contacto'>

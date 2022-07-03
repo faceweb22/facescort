@@ -4,6 +4,7 @@ import User from "./User";
 import '../CSS/main.css'
 import { data } from "./Data";
 import { useParams } from "react-router-dom";
+// import Welcome from "./Welcome";
 // import Contacto from "./Contacto";
 
 
@@ -56,13 +57,12 @@ export default function Users(){
     return(
         <>
         <section>
-        
+        {/* <Welcome/> */}
         <div className="searchContainer">
             <input type="text" id="buscador" 
             placeholder='Buscar por nombre' 
             value={busqueda} onChange={handleChange} ></input>
             <i class="fa-solid fa-magnifying-glass"></i>
-            
         </div>
         <div style={{textAlign:"center"}}>
             {items?.length===0?

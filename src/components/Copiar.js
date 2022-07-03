@@ -11,7 +11,7 @@ export default function Copiar({toCopy}) {
   return (
     <CopyToClipboard text={toCopy}>
         <div>
-            <button className="copiar" onClick={copiar}>copiar</button> 
+            <button className="btn copiar" onClick={copiar}>copiar</button> 
             <Toaster/>
         </div>
     </CopyToClipboard>
