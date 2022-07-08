@@ -6,10 +6,8 @@ import Terminos from './Terminos'
 export default function Provincia() {
     const verificacion=()=>{
         let body= document.querySelector("body")
-        // body.style.opacity="0.6"    
         let verificadorEdad=document.querySelector("#terminosContainer")  
         verificadorEdad.style.display="block"
-        // verificadorEdad.style.opacity="1"
     }
     
   return (

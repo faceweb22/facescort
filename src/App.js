@@ -7,11 +7,13 @@ import UserDetailContainer from "./components/UserDetailContainer";
 import Footer from "./components/Footer";
 import Contacto from "./components/Contacto";
 import Provincia from "./components/Provincia";
+import Themes from "./components/Themes";
 
 
 function App() {
   return (    
     <HashRouter>
+      <Themes/>
 
     <Switch>
 

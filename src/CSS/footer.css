@@ -4,16 +4,17 @@
 }
 
 .footerRedes {
-    position: -webkit-sticky;
-    bottom: 0;
+    /* position: absolute;
+    bottom: 0; */
     background-color: var(--navColor);
     padding: 15px;
     margin-top: 30px;
     display: flex;
     flex-flow: wrap;
     justify-content: space-evenly;
-    display: flex;
-    flex-direction: row;
+    /* display: flex;
+    flex-direction: row; */
+    font-size: 14px;
     justify-items: center;
     align-items: center;
     width: 100%; }
