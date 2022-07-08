@@ -2,7 +2,8 @@
 
 .themeContainer{
     position: absolute;
-    top: 60px;
+    top: 0;
+    z-index: 20;
 }
 .switch{
     background-color: #a4b0d8;
@@ -47,6 +48,7 @@ body{
 }
 body.dark{
     background-color: #000;
+    color: whitesmoke;
 }
 /* este id esta dentro del archivo svg del sol */
 #iconSun{
@@ -56,3 +58,12 @@ body.dark{
     top: 4px;
 }
 
+
+
+
+
+@media only screen and (min-width: 500px){
+    .themeContainer{
+        top: 62px;
+    }
+}

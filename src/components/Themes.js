@@ -6,12 +6,9 @@ import moon from '../multimedia/moon.svg'
 
 export default function Themes() {
     const btnSwitch= document.querySelector("#switch")
-    const menu= document.querySelector(".logo")
-    // btnSwitch.addEventListener()
     const cambiar=()=>{
         document.body.classList.toggle("dark")
         btnSwitch.classList.toggle("active")
-        menu.style.backgroundColor="rgb(247, 73, 233)"
 
     }
 
