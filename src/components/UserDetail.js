@@ -3,6 +3,7 @@
 import React from "react";
 import '../CSS/detallesUser.css'
 import Copiar from "./Copiar";
+import marcagua from "../multimedia/marcagua.png"
 
 export default function UserDetail ({items:{id, nombre, category, fotos, wp, portada, descripcion}}){
 
@@ -23,7 +24,7 @@ export default function UserDetail ({items:{id, nombre, category, fotos, wp, por
             <div className="imgContainer">
                 <div className="marco">
                     <img src={portada} className="imgDetail" alt="image"/>
-                    {/* <img className="marcaDeAgua" src="https://github.com/faceweb22/face/blob/reacomodando/src/multimedia/faceLogo.png?raw=true" width="200px"></img> */}
+                    {/* <img className="marcaDeAgua" src={marcagua} width="200px"></img> */}
 
                 </div>
 
@@ -31,7 +32,7 @@ export default function UserDetail ({items:{id, nombre, category, fotos, wp, por
                     fotos?.map(foto=>(
                         <div className="marco">
                             <img src={foto} key={foto.toString()} className="imgDetail" alt="image"></img>
-                            {/* <img className="marcaDeAgua" src="https://github.com/faceweb22/face/blob/reacomodando/src/multimedia/faceLogo.png?raw=true" width="200px"></img> */}
+                            {/* <img className="marcaDeAgua" src={marcagua} width="200px"></img> */}
 
                         </div>  
                     ))
