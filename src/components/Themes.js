@@ -16,15 +16,19 @@ export default function Themes() {
   return (
     <div className='themeContainer'>
         <button className='switch' id='switch'onClick={cambiar}>
-            {tema?
+            {tema==true &&(
+
                 <span>
                     <img id='iconSun' src={moon} alt="icono de luna"></img>
                 </span>
-                :
+                ) 
+            }
+            {tema==false &&(
                 <span>
                     <img id='iconSun' src={sun} alt="icono de sol"></img>
                 </span>
-            }
+
+            )}
 
 
         </button>
