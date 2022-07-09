@@ -10,7 +10,7 @@ export default function Copiar({toCopy}) {
     }
   return (
     <CopyToClipboard text={toCopy}>
-        <div>
+        <div style={{display:"inline"}}>
             <button className="btn copiar" onClick={copiar}>copiar</button> 
             <Toaster/>
         </div>

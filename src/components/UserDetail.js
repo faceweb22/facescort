@@ -2,6 +2,7 @@
 
 import React from "react";
 import '../CSS/detallesUser.css'
+import Copiar from "./Copiar";
 
 export default function UserDetail ({items:{id, nombre, category, fotos, wp, portada, descripcion}}){
 
@@ -13,7 +14,7 @@ export default function UserDetail ({items:{id, nombre, category, fotos, wp, por
             <div className="contenedorDetail" >
                 <ul >
                     <h2>{nombre}</h2>
-                    <li>{wp}</li>
+                    <li>{wp} <Copiar toCopy={wp}/> </li>
                     <li>{descripcion}</li>
 
                 </ul>

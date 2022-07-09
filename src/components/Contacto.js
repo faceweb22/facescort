@@ -21,6 +21,7 @@ export default function Contacto() {
                 <br></br> 
                 <img src={wp} className="iconoWp" alt='logo de whatapp'></img> <br></br>
                 <span id='copiarWp'>11-2566-5213</span> 
+                <br></br>
                 <Copiar toCopy={wpContacto}/>
 
             </p>
