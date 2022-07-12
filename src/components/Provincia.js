@@ -5,7 +5,7 @@ import Terminos from './Terminos'
 
 export default function Provincia() {
     const verificacion=()=>{
-        let body= document.querySelector("body")
+        // let body= document.querySelector("body")
         let verificadorEdad=document.querySelector("#terminosContainer")  
         verificadorEdad.style.display="block"
     }
