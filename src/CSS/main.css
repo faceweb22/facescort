@@ -42,9 +42,12 @@ ul{
     position: relative;
 
 }
+.cardImgContainer{
+    overflow: hidden;
+    height:200px;
+}
 .tarjetas-img{
     width:100%;
-    height:200px;
 }
 .logo{
     text-align: center;

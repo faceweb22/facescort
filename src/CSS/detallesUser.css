@@ -8,9 +8,13 @@
     width: 100vw;
     align-items: center;
 }
+.videoDetail{
+    max-width: 90vw;
+    max-height: 97vh;
+}
 .imgDetail{
-    width: 90vw;
-    height: 400px;
+    max-width: 90vw;
+    /* max-height: 100vh; */
     margin-top: 15px;
     border: 1px solid black;
 
@@ -28,9 +32,11 @@
 }
 .marco{
     position: relative;
+    text-align: center;
+    margin-top: 20px;
 }
 .marcaDeAgua{
-    opacity: 0.3;
+    opacity: 0.1;
     position: absolute;
     bottom: 50%;
     left: 20%;
@@ -47,12 +53,19 @@
         font-size: large;
     }
     .imgDetail{
-        width: 55vw;
+        /* width: 55vw; */
         margin-top: 45px;
     }
     .contenedorDetail{
         margin: 40px;
         line-height: 1.7;
-        width: 500px;
+        /* width: 500px; */
+    }
+    .marcaDeAgua{
+        opacity: 0.08;
+        position: absolute;
+        bottom: 45%;
+        left: 35%;
+        width: 35%;
     }
 }
