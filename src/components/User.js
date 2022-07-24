@@ -10,7 +10,7 @@ export default function User({user:{id, nombre, category,ubicacion, wp, portada,
         <ul className="tarjetas">
             <Link to= {`/${nombre}-${id}-${wp}`} >
                 <li className="cardImgContainer"> <img src= {portada} className="tarjetas-img" alt="portada"/></li>
-                <li className="detallesCard">{nombre} ({ubicacion}) </li>
+                <li className="detallesCard">{nombre} </li>
                 <li className="detallesCard">{wp}</li>
             </Link> 
 

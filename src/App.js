@@ -1,5 +1,5 @@
 
-import { BrowserRouter, Switch, Route, HashRouter } from "react-router-dom/cjs/react-router-dom.min";
+import { Switch, Route, HashRouter } from "react-router-dom/cjs/react-router-dom.min";
 // import { Route, BrowserRouter, Switch } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Users from "./components/Users";

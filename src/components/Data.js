@@ -66,7 +66,10 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
-      "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
+      "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32"    
+    ],
+    videos:[
+      "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32"  
     ],
     descripcion: "Description..."
   },
