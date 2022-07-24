@@ -68,10 +68,8 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32"    
     ],
-    videos:[
-      "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32"  
-    ],
-    descripcion: "Description..."
+
+    descripcion: ["..."]
   },
   {   
     id:"3",
@@ -86,7 +84,7 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
     ],
-    descripcion: "Description..."
+    descripcion: ["..."]
     },
   {   
     id:"4",
@@ -101,7 +99,7 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
     ],
-    descripcion: "Description..."
+    descripcion: ["..."]
     },
     {   
     id:"5",
@@ -116,7 +114,7 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
     ],
-    descripcion: "Description..."
+    descripcion: ["..."]
     },
     {   
     id:"6",
@@ -131,7 +129,7 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
     ],
-    descripcion: "Description..."
+    descripcion: ["..."]
     },
     { 
     id:"7",
@@ -146,7 +144,7 @@ export const data= [
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
       "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
     ],
-    descripcion: "Description..."
+    descripcion: ["..."]
     },
     {   
       id:"8",
@@ -161,7 +159,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"9",
@@ -176,7 +174,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"10",
@@ -191,7 +189,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"11",
@@ -206,7 +204,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"12",
@@ -221,7 +219,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"13",
@@ -236,7 +234,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"14",
@@ -251,7 +249,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
     {   
       id:"15",
@@ -266,7 +264,7 @@ export const data= [
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",
         "https://firebasestorage.googleapis.com/v0/b/publicidades-multimedia.appspot.com/o/example%2Fimage.png?alt=media&token=79dab8a7-d5fa-4a28-87dc-0290671d9f32",    
       ],
-      descripcion: "Description..."
+      descripcion: ["..."]
     },
       
 
