@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.4462afb8.css",
-    "main.js": "/static/js/main.91d16a96.js",
+    "main.js": "/static/js/main.1a4ecf8b.js",
     "static/js/787.9f8792f0.chunk.js": "/static/js/787.9f8792f0.chunk.js",
     "static/media/presentacionLogo.mp4": "/static/media/presentacionLogo.970d67f6ab97885a124d.mp4",
     "static/media/marcagua.png": "/static/media/marcagua.ad5836d5ca994a09f2bf.png",
     "index.html": "/index.html",
     "static/media/wp.svg": "/static/media/wp.202a5bbf98298b6a0c2c4b46f368fa56.svg",
     "main.4462afb8.css.map": "/static/css/main.4462afb8.css.map",
-    "main.91d16a96.js.map": "/static/js/main.91d16a96.js.map",
+    "main.1a4ecf8b.js.map": "/static/js/main.1a4ecf8b.js.map",
     "787.9f8792f0.chunk.js.map": "/static/js/787.9f8792f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4462afb8.css",
-    "static/js/main.91d16a96.js"
+    "static/js/main.1a4ecf8b.js"
   ]
 }
